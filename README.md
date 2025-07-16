@@ -1,105 +1,60 @@
 <div align="center">
-  
-  <!-- 动态标题 -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=QA+Engineer+%7C+Python+Expert;Learning+Java+%26+Spring+Boot;Building+Quality+Software" alt="Typing SVG" />
-  
-  <br><br>
-  
-  <!-- 简洁个人介绍 -->
-  <h2>👋 Hi, I'm 文艺倾年</h2>
-  <h3>🧪 Quality Assurance Engineer</h3>
-  
-  <!-- 核心技能标签 -->
-  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-Learning-ED8B00?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Testing-Automation-brightgreen?style=flat-square&logo=checkmarx&logoColor=white" />
-  
-  <br><br>
-  
-  <!-- 社交链接 -->
-  <a href="https://blog.csdn.net/m0_51517236">
-    <img src="https://img.shields.io/badge/CSDN-文艺倾年-red?style=flat-square&logo=csdn" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=itxaiohanglover&label=Views&color=58A6FF&style=flat-square" />
 
-</div>
+# 🙋 嗨，你好，我是文艺倾年
+
+**热爱编程、音乐、读书、旅行**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1500&color=6366F1&center=true&width=600&lines=🎨+用代码编织诗意的梦想;🔍+在测试中寻找完美的艺术;🌟+让技术与美学共舞飞扬;📚+在代码的世界里书写浪漫;🎵+让每一行代码都充满韵律" alt="动态打字效果">
 
 <br>
 
----
-
-## 🛠 Tech Stack
-
-<div align="center">
-
-**Languages & Frameworks**
+<table border="0">
+<tr>
+<td width="50%" align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="代码动画">
+</td>
+<td width="50%" align="left">
+  <h3>🎭 我的世界</h3>
   
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-
-**Testing Tools**
-
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
-<br>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=itxaiohanglover&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itxaiohanglover&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itxaiohanglover&theme=github-dark-blue&hide_border=true&background=0d1117" />
-</div>
-
-<br>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-  
-| 🐍 **Python Testing** | ☕ **Java Learning** | 🚀 **Growth** |
-|:---:|:---:|:---:|
-| Test Automation | Spring Boot | DevOps & CI/CD |
-| API Testing | JUnit Framework | Performance Testing |
-| Selenium WebDriver | Maven Projects | Cloud Testing |
-
-</div>
-
-<br>
-
----
-
-## 📈 Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itxaiohanglover&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" />
-</div>
-
-<br>
-
----
-
-<div align="center">
-  
-  **📫 Get in Touch**
-  
-  [![CSDN](https://img.shields.io/badge/CSDN-文艺倾年-red?style=flat-square&logo=csdn)](https://blog.csdn.net/m0_51517236)
-  [![Email](https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=gmail)](mailto:your.email@example.com)
+  🧪 **测试工程师** - 用代码守护品质  
+  🎨 **美学追求者** - 让测试也充满艺术  
+  📝 **技术博主** - 分享测试的诗与远方  
+  🎵 **音乐爱好者** - 代码与旋律的交响  
+  📚 **终身学习者** - 在知识海洋中遨游  
   
   <br>
   
-  *"Quality is not an act, it is a habit."*
+  <h3>🌈 生活哲学</h3>
   
+  ☕ **慢生活** - 一杯咖啡，一段代码  
+  🌸 **发现美好** - 在bug中寻找诗意  
+  🎯 **精益求精** - 每个测试用例都是艺术品  
+  🌟 **保持好奇** - 永远像初学者一样思考  
+  
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 GitHub 统计
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=itxaiohanglover&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=ffffff&title_color=111827&text_color=4B5563&icon_color=3B82F6">
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itxaiohanglover&layout=compact&hide_border=true&bg_color=ffffff&title_color=111827&text_color=4B5563">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itxaiohanglover/itxaiohanglover/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itxaiohanglover/itxaiohanglover/output/github-contribution-grid-snake.svg">
+  <img alt="代码贡献图" src="https://raw.githubusercontent.com/itxaiohanglover/itxaiohanglover/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+📧 **youjia@linux.do** | 💬 **微信: p95550** | 🐧 **QQ: 2495550**
+
+> *"代码如诗，测试如画，在技术的世界里寻找生活的美好"*
+
+![Profile Views](https://komarev.com/ghpvc/?username=itxaiohanglover&style=flat&color=3B82F6)
+
 </div>
