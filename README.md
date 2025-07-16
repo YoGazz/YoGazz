@@ -1,35 +1,28 @@
 <div align="center">
 
-# 🙋 嗨，你好，我是文艺倾年
+# 🙋 嗨，你好，我是佑珈
 
 **热爱编程、音乐、读书、旅行**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1500&color=6366F1&center=true&width=600&lines=🎨+用代码编织诗意的梦想;🔍+在测试中寻找完美的艺术;🌟+让技术与美学共舞飞扬;📚+在代码的世界里书写浪漫;🎵+让每一行代码都充满韵律" alt="动态打字效果">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1500&color=6366F1&center=true&width=600&lines=🌊+保持热爱，奔赴山海;🏔️+心有猛虎，细嗅蔷薇;🌸+愿你历尽千帆，归来仍是少年;⭐+生活不止眼前的苟且，还有诗和远方;🎭+做自己生命的主角，而不是别人故事的配角" alt="动态打字效果">
 
 <br>
 
 <table border="0">
 <tr>
 <td width="50%" align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="代码动画">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="300" alt="代码动画">
 </td>
 <td width="50%" align="left">
-  <h3>🎭 我的世界</h3>
+  <h3>🛠️ 技能栈</h3>
   
-  🧪 **测试工程师** - 用代码守护品质  
-  🎨 **美学追求者** - 让测试也充满艺术  
-  📝 **技术博主** - 分享测试的诗与远方  
-  🎵 **音乐爱好者** - 代码与旋律的交响  
-  📚 **终身学习者** - 在知识海洋中遨游  
+  ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+  ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat&logo=apache&logoColor=white)
   
-  <br>
-  
-  <h3>🌈 生活哲学</h3>
-  
-  ☕ **慢生活** - 一杯咖啡，一段代码  
-  🌸 **发现美好** - 在bug中寻找诗意  
-  🎯 **精益求精** - 每个测试用例都是艺术品  
-  🌟 **保持好奇** - 永远像初学者一样思考  
+  ![Pytest](https://img.shields.io/badge/Pytest-FF6C37?style=flat&logo=testng&logoColor=white)
+  ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+  ![Appium](https://img.shields.io/badge/Appium-662D91?style=flat&logo=appium&logoColor=white)
   
 </td>
 </tr>
@@ -55,6 +48,6 @@
 
 > *"代码如诗，测试如画，在技术的世界里寻找生活的美好"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=itxaiohanglover&style=flat&color=3B82F6)
+![Profile Views](https://komarev.com/ghpvc/?username=yoga&style=flat&color=3B82F6)
 
 </div>
